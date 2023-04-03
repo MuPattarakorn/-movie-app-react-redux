@@ -1,1 +1,4 @@
-# -movie-app-react-redux
+# Movie App
+
+## Screenshot
+![](design/preview-desktop.png)
